@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+   
+  
+    padding: 50px;
+ 
+}
+.logo1{
+    font-family: 'Big Shoulders Stencil Text', cursive;
+}
+.icon{
+    list-style: none;
+
+    
+}
+.social{
+    justify-content: space-between;
+}
+.icon:hover{
+    color: transparent;
+}
+.section-1{
+  
+    top: 0;
+}
+.image{
+    width: 100%;
+}
+.watch{
+    height: 100%;
+    width: 100%;
+}
+.container{
+ 
+}
+-
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100%;
+    box-shadow: violet;
+}
+.img{
+    box-shadow: violet;
+}
+.new{
+    text-align: center;
+    font-family: 'Ultra', serif;
+}
+.buy-now-button {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+    font-family: 'Big Shoulders Stencil Text', cursive;
+    
+}
+.buy-now-button:hover{
+    color: rgb(139, 71, 25);
+}
+.button{
+    text-align: center;
+}
+.card-text{
+    font-family: 'Ultra', serif;
+
+}
+footer{
+    text-align: center;
+    font-family: 'Ultra', serif;
+    color: rgb(190, 33, 151);
+
+}
+.navbar{
+    background: rgb(219, 145, 145);
+}
+.catagories{
+   
+    padding: 20px 20px;
+}
+.containers{
+    background: rgb(172, 179, 201);
+    padding: 40px 50px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px rgb(14, 170, 170);
+    border-radius: 10px;
+    width:100%;
+    height: 100%;
+}
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgreen;
